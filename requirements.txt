@@ -1,0 +1,2 @@
+dissect.cstruct==1.0.0
+pefile==2019.4.18
